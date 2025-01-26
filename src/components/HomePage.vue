@@ -34,7 +34,7 @@
             <div class="topic">
               <h4>Visiting Scholar</h4>
               <iframe
-                src="https://app.powerbi.com/view?r=eyJrIjoiM2JlYmRhNGQtZmY0OC00ZjhmLTk2NjYtZjQyNWI5MDc1NWY1IiwidCI6ImU5NGQ1N2FkLWEwYjctNDRjZi04ODNmLWQ3OTg3YTBiZDI0NCIsImMiOjEwfQ%3D%3D"
+                src="https://app.powerbi.com/view?r=eyJrIjoiOTBlMTMyYjgtOGY2ZS00YzczLWJlNDYtYWM1MjJhYTdlZGUyIiwidCI6ImU5NGQ1N2FkLWEwYjctNDRjZi04ODNmLWQ3OTg3YTBiZDI0NCIsImMiOjEwfQ%3D%3D"
                 class="powerbi-iframe"
                 title="Visiting Scholar Power BI"
               ></iframe>
@@ -44,7 +44,7 @@
             <div class="topic">
               <h4>Student Exchange</h4>
               <iframe
-                src="https://app.powerbi.com/view?r=eyJrIjoiZjYxMzQzZTAtODQ5MC00ZDRkLWI2OWEtZDE0ZTM1ZDBhMzM2IiwidCI6IjIxMjM0NTY3LTg5YWItNGU3YS04YmJiLWMxMjM0NTY3ODkwYSIsImMiOjF9"
+                src="https://app.powerbi.com/view?r=eyJrIjoiYjBhOWI5Y2UtZDc3ZS00Mjc3LTgxZDAtZTYzNWFlYTRhMTVjIiwidCI6ImU5NGQ1N2FkLWEwYjctNDRjZi04ODNmLWQ3OTg3YTBiZDI0NCIsImMiOjEwfQ%3D%3D"
                 class="powerbi-iframe"
                 title="Student Exchange Power BI"
               ></iframe>
@@ -54,7 +54,7 @@
             <div class="topic">
               <h4>Number of Students</h4>
               <iframe
-                src="https://app.powerbi.com/view?r=eyJrIjoiMTIzNDU2NzgtYTk4MC00ZGRkLTg3YWQtZmQzNjExMzYzYzM2IiwidCI6IjMxMjM0NTY3LTg5YWItNGU3YS04YmJiLWMxMjM0NTY3ODkwYSIsImMiOjF9"
+                src="https://app.powerbi.com/view?r=eyJrIjoiYWRiOTQ3NDgtNDhkYi00YmZlLTgxYmEtZjhhOGE4YmU5NjkzIiwidCI6ImU5NGQ1N2FkLWEwYjctNDRjZi04ODNmLWQ3OTg3YTBiZDI0NCIsImMiOjEwfQ%3D%3D"
                 class="powerbi-iframe"
                 title="Number of Students Power BI"
               ></iframe>
